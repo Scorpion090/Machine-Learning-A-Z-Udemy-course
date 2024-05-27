@@ -4,3 +4,7 @@ I have uploaded:
 - Part 1: Data Preprocessing
 - Part 2: Regression
 - Part 3: Classification
+- Part 4: Clustering
+- Part 5: Association Rule Learning
+- Part 6: Reinforcement learning
+- part 7:  Natural language Processing (NLP)
